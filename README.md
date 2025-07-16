@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nithin 👋
 
-<!--
-**ncherian/ncherian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡️ **Hire Me:** Hyper-Fast Vibe Coder for MVPs  
+_AI Wrappers · Automations · Apps · Plugins_  
+Flutter · React/Next · WordPress · Supabase · Firebase  
+**Cursor + Claude power user** → DM to build fast & launch smart
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **14+ years building tech that ships, sells, and scales**  
+From solo freelancer to startup co-founder to product leader at global companies — I’ve built across D2C, B2B, and B2B2C models.
+
+🛒 **Ex–Firework (SoftBank-funded):**  
+Led product & integrations for a video commerce SaaS used by Amazon, Samsung, and global retailers.  
+Shipped SDKs and plug-ins across Shopify, Magento, WooCommerce, SFCC, and mobile apps (Android, iOS, Flutter, React Native).
+
+📺 **Built a Video CMS for OTT companies** that generated $2M+ in 3 years  
+🏆 **Winner** – Government of India’s OpenDataApps Challenge  
+📱 **1.5M+ downloads** across my own lifestyle apps
+
+---
+
+⚙️ I specialize in turning ideas into fast, scalable MVPs using:
+- AI wrappers + automations
+- No-code/low-code integrations
+- Lean product thinking
+- End-to-end delivery
