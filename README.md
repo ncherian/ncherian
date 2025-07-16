@@ -6,9 +6,6 @@ Flutter · React/Next · WordPress · Supabase · Firebase
 ---
 
 # Nithin Paul Cherian (npc)
-
----
-
 🚀 **14+ years building tech that ships, sells, and scales**  
 From solo freelancer to startup co-founder to product leader at global companies — I’ve built across D2C, B2B, and B2B2C models.
 
