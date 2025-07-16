@@ -1,9 +1,11 @@
-# Nithin Paul Cherian (npc)
-
 ⚡️ **Hire Me:** Hyper-Fast Vibe Coder for MVPs  
 _AI Wrappers · Automations · Apps · Plugins_  
 Flutter · React/Next · WordPress · Supabase · Firebase  
 **Cursor + Claude power user** → DM to build fast & launch smart
+
+---
+
+# Nithin Paul Cherian (npc)
 
 ---
 
