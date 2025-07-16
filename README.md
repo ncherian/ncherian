@@ -23,3 +23,7 @@ Shipped SDKs and plug-ins across Shopify, Magento, WooCommerce, SFCC, and mobile
 - No-code/low-code integrations
 - Lean product thinking
 - End-to-end delivery
+
+👉 **Let’s build your MVP, integration, or next-gen tool.**  
+📬 **Email:** [nithin@indimakes.com](mailto:nithin@indimakes.com)  
+DM me — I’ll help you ship smart, fast.
