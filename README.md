@@ -1,4 +1,4 @@
-# Hi, I'm Nithin 👋
+# Nithin Paul Cherian (npc)
 
 ⚡️ **Hire Me:** Hyper-Fast Vibe Coder for MVPs  
 _AI Wrappers · Automations · Apps · Plugins_  
